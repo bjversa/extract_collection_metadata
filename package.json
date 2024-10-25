@@ -1,0 +1,9 @@
+{
+  "name": "opensea_bot",
+  "packageManager": "yarn@4.3.1",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  },
+  "type": "module"
+}
